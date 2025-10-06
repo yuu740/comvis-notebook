@@ -1,0 +1,33 @@
+- Basic Python :
+[] Input
+[] Output
+[] Variable
+[] Operator
+[] Selection
+[] Repetition
+[] Function
+[] Data Structure (list, set, dictionary, tuple)
+[] Slicing Data
+
+- OpenCV :
+[] Import library
+[] imread
+[] imshow
+[] imwrite
+[] cvtColor
+[] resize
+
+Documentation : https://opencv24-python-tutorials.readthedocs.io/en/latest/
+
+- NumPy :
+[] array
+[] shape
+[] ndim
+[] zeros
+[] ones
+[] empty
+[] random
+[] vstack
+[] hstack
+
+Documentation : https://numpy.org/doc/

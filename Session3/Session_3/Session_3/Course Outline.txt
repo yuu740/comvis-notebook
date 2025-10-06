@@ -1,0 +1,15 @@
+Course Outline Session 3 ComVis :
+- Grayscale []
+- Filtering
+   - blur []
+   - GaussianBlur []
+   - medianBlur []
+- Thresholding
+   - binary []
+   - binary inverse []
+   - truncate []
+   - to zero []
+   - to zero inverse [] 
+      
+   - adaptive []
+   - otsu [] => otomatis
