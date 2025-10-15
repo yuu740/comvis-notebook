@@ -1,0 +1,5 @@
+Course Outline hari ini :
+- Harris [] => ke semua arah kontrasnya paling besar
+- SubPix []
+- FAST(Features from Accelerated Segment Test) []
+- ORB(Oriented FAST and Rotated BRIEF) []
